@@ -1,0 +1,50 @@
+.home {
+  background-image: url("C:\Users\NJY48016\Downloads\ReactJS\winta-steakhouse\src\img\Main_background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  color: white;
+}
+
+.welcome,
+h1 {
+  padding: 20px;
+}
+
+main h1 {
+  font-size: 4.7rem;
+  letter-spacing: 3.5px;
+  margin-top: -40px;
+  margin-left: 20px;
+}
+
+main {
+  margin-top: -70px;
+}
+
+main p {
+  font-family: Ariel;
+  margin-top: 200px;
+}
+.home-info {
+  margin-top: -200px;
+  margin-left: 40px;
+  font-family: Ariel;
+  font-size: 1rem;
+  background-color: #2d3e50;
+  width: 20%;
+  padding: 7px 50px 10px;
+}
+
+.welcome {
+  margin-top: 450px;
+  margin-left: 25px;
+}
+
+.home-info:hover {
+  cursor: pointer;
+  color: black;
+  background-color: skyblue;
+}

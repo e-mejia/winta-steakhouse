@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/winta-steakhouse/static/css/main.856c343a.css",
-    "main.js": "/winta-steakhouse/static/js/main.38bb5aae.js",
-    "static/media/Ribeye-Steak-Garlic-Butter.jpg": "/winta-steakhouse/static/media/Ribeye-Steak-Garlic-Butter.7bfd8eab4428dc6eaaf7.jpg",
-    "static/media/Main_background.jpg": "/winta-steakhouse/static/media/Main_background.39b57fabc1cd65abf52f.jpg",
-    "static/media/Gal3.jpg": "/winta-steakhouse/static/media/Gal3.7e416be9371c88d970eb.jpg",
-    "static/media/Gal2.jpg": "/winta-steakhouse/static/media/Gal2.6eaeeba891576579872e.jpg",
-    "static/media/Gal6.jpg": "/winta-steakhouse/static/media/Gal6.56e566c686f1bfecbfbb.jpg",
-    "static/media/Gal5.jpg": "/winta-steakhouse/static/media/Gal5.c13562cb526253448fff.jpg",
-    "static/media/Car1.jpg": "/winta-steakhouse/static/media/Car1.70404913d30e18f17075.jpg",
-    "static/media/Car3.jpg": "/winta-steakhouse/static/media/Car3.adcfeb8dd480f201ef85.jpg",
-    "static/media/Gal1.jpg": "/winta-steakhouse/static/media/Gal1.aaac9f8b304912cef55f.jpg",
-    "static/media/Gal7.jpg": "/winta-steakhouse/static/media/Gal7.e77394a19a1ca091e59b.jpg",
-    "static/media/Gal4.jpg": "/winta-steakhouse/static/media/Gal4.97ed27675e94a058c944.jpg",
-    "static/media/Car2.jpg": "/winta-steakhouse/static/media/Car2.e928a15bc2da35960586.jpg",
-    "index.html": "/winta-steakhouse/index.html",
-    "main.856c343a.css.map": "/winta-steakhouse/static/css/main.856c343a.css.map",
-    "main.38bb5aae.js.map": "/winta-steakhouse/static/js/main.38bb5aae.js.map"
+    "main.css": "/static/css/main.ae4e0f66.css",
+    "main.js": "/static/js/main.70f4e7de.js",
+    "static/media/Ribeye-Steak-Garlic-Butter.jpg": "/static/media/Ribeye-Steak-Garlic-Butter.7bfd8eab4428dc6eaaf7.jpg",
+    "static/media/Main_background.jpg": "/static/media/Main_background.39b57fabc1cd65abf52f.jpg",
+    "static/media/Gal3.jpg": "/static/media/Gal3.7e416be9371c88d970eb.jpg",
+    "static/media/Gal2.jpg": "/static/media/Gal2.6eaeeba891576579872e.jpg",
+    "static/media/Gal6.jpg": "/static/media/Gal6.56e566c686f1bfecbfbb.jpg",
+    "static/media/Gal5.jpg": "/static/media/Gal5.c13562cb526253448fff.jpg",
+    "static/media/Car1.jpg": "/static/media/Car1.70404913d30e18f17075.jpg",
+    "static/media/Car3.jpg": "/static/media/Car3.adcfeb8dd480f201ef85.jpg",
+    "static/media/Gal1.jpg": "/static/media/Gal1.aaac9f8b304912cef55f.jpg",
+    "static/media/Gal7.jpg": "/static/media/Gal7.e77394a19a1ca091e59b.jpg",
+    "static/media/Gal4.jpg": "/static/media/Gal4.97ed27675e94a058c944.jpg",
+    "static/media/Car2.jpg": "/static/media/Car2.e928a15bc2da35960586.jpg",
+    "index.html": "/index.html",
+    "main.ae4e0f66.css.map": "/static/css/main.ae4e0f66.css.map",
+    "main.70f4e7de.js.map": "/static/js/main.70f4e7de.js.map"
   },
   "entrypoints": [
-    "static/css/main.856c343a.css",
-    "static/js/main.38bb5aae.js"
+    "static/css/main.ae4e0f66.css",
+    "static/js/main.70f4e7de.js"
   ]
 }

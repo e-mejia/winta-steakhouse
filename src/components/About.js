@@ -2,6 +2,8 @@ import "../stylesheets/About.css";
 
 import Ribeye from "../img/Ribeye-Steak-Garlic-Butter.jpg";
 
+// import { Link } from "react-router-dom";
+
 export default function About() {
   return (
     <div className="about-page">
@@ -57,6 +59,8 @@ export default function About() {
         consequuntur sint ab alias harum nobis magni. Earum nihil culpa quis
         incidunt optio molestias debitis.
       </p>
+
+      {/* <Link to="Home">Home</Link> */}
       <div className="about-home">
         <a href="/">Home</a>
       </div>

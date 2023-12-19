@@ -15,11 +15,11 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/winta-steakhouse" element={<Home />} />
-        <Route path="/About" element={<About />} />
-        <Route path="/Menu" element={<Menu />} />
-        <Route path="/Gallery" element={<Gallery />} />
-        <Route path="/Contact" element={<Contact />} />
-        <Route path="/News" element={<News />} />
+        <Route path="about" element={<About />} />
+        <Route path="menu" element={<Menu />} />
+        <Route path="gallery" element={<Gallery />} />
+        <Route path="contact" element={<Contact />} />
+        <Route path="news" element={<News />} />
       </Routes>
     </>
   );

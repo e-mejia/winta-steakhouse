@@ -12,19 +12,19 @@ export default function Navbar() {
       <ul>
         {/* <li><Link to='Home'>Home</Link></li> */}
         <li>
-          <Link to="About">About</Link>
+          <Link to="about">About</Link>
         </li>
         <li>
-          <Link to="Menu">Menu</Link>
+          <Link to="menu">Menu</Link>
         </li>
         <li>
-          <Link to="Gallery">Gallery</Link>
+          <Link to="gallery">Gallery</Link>
         </li>
         <li>
-          <Link to="Contact">Contact</Link>
+          <Link to="contact">Contact</Link>
         </li>
         <li>
-          <Link to="News">News</Link>
+          <Link to="news">News</Link>
         </li>
       </ul>
     </nav>

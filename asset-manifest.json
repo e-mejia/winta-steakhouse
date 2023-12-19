@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/winta-steakhouse/static/css/main.856c343a.css",
-    "main.js": "/winta-steakhouse/static/js/main.3c5c1f42.js",
+    "main.js": "/winta-steakhouse/static/js/main.2ef249dd.js",
     "static/media/Ribeye-Steak-Garlic-Butter.jpg": "/winta-steakhouse/static/media/Ribeye-Steak-Garlic-Butter.7bfd8eab4428dc6eaaf7.jpg",
     "static/media/Main_background.jpg": "/winta-steakhouse/static/media/Main_background.39b57fabc1cd65abf52f.jpg",
     "static/media/Gal3.jpg": "/winta-steakhouse/static/media/Gal3.7e416be9371c88d970eb.jpg",
@@ -16,10 +16,10 @@
     "static/media/Car2.jpg": "/winta-steakhouse/static/media/Car2.e928a15bc2da35960586.jpg",
     "index.html": "/winta-steakhouse/index.html",
     "main.856c343a.css.map": "/winta-steakhouse/static/css/main.856c343a.css.map",
-    "main.3c5c1f42.js.map": "/winta-steakhouse/static/js/main.3c5c1f42.js.map"
+    "main.2ef249dd.js.map": "/winta-steakhouse/static/js/main.2ef249dd.js.map"
   },
   "entrypoints": [
     "static/css/main.856c343a.css",
-    "static/js/main.3c5c1f42.js"
+    "static/js/main.2ef249dd.js"
   ]
 }

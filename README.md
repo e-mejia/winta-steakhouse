@@ -4,7 +4,7 @@ PURPOSE OF THE PROJECT: A restaurant landing page.
 
 # How's it made
 
-Tech used: HTML, CSS, React Router, ReactJS
+Tech used: HTML, CSS, React Router 6, ReactJS
 
 A landing page for a fictional steak restaurant built in React.
 
